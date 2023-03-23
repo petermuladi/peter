@@ -1,6 +1,6 @@
 
 
-<a href="https://www.linkedin.com/in/petermuladi/"><img src="banner.png" alt="my-img"></a>
+<a href="https://www.linkedin.com/in/petermuladi/"><img align="center" src="banner.png" alt="my-img"></a>
 
 # 🖐Hi there! 
 
