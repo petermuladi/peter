@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/petermuladi/peter/blob/main/PHP.jpg">
+<img src="https://github.com/petermuladi/peter/blob/main/PHP.jpg" height="600">
 
 # 🖐Hi there! 
 
