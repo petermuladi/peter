@@ -1,6 +1,5 @@
 
-
-<img src="https://github.com/petermuladi/peter/blob/main/PHP.jpg" height="600">
+![My Image](php.jpg)
 
 # 🖐Hi there! 
 
