@@ -1,3 +1,7 @@
+
+
+<img src="https://github.com/petermuladi/peter/blob/main/PHP.jpg" width="500" height="600">
+
 # 🖐Hi there! 
 
 I'm Péter Muladi, a junior web developer with a passion for creating efficient and user-friendly web applications. As a recent graduate of Ruander Oktatási Kft. I bring a fresh perspective and a strong foundation in **PHP**, **MySQL**, **SQL**, **JavaScript**, **Bootstrap**, **REST API**, **OOP**, and **MVC** to my work.
