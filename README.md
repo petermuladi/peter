@@ -10,6 +10,6 @@ My experience in backend development has taught me to approach complex problems 
 
 I am currently seeking opportunities to utilize my skills and contribute to a dynamic and innovative team. If you're looking for a dedicated web developer who can deliver high-quality results, please don't hesitate to contact me. Let's build something great together!
 
-#-
+# -
 
 🎯**Skills**: **Relational Databases · DOM Manipulation · SOLID Principles · JSON · PHP · React.js · XAMPP · REST APIs · Analytical Skills · Problem Solving · Model-View-Controller (MVC) · Object-Oriented Programming (OOP) · MySQL · PhpMyAdmin · Bootstrap · JavaScript · Cascading Style Sheets (CSS) · HTML · VS Code**
