@@ -1,5 +1,5 @@
 
-(./php.jpg)
+<a href="https://www.linkedin.com/in/petermuladi/"><img src="php.jpg" alt="my-img"></a>
 
 # 🖐Hi there! 
 
