@@ -1,5 +1,5 @@
 
-![My Image](php.jpg)
+(./php.jpg)
 
 # 🖐Hi there! 
 
