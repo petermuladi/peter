@@ -1,5 +1,5 @@
 
-<a href="https://www.linkedin.com/in/petermuladi/"><img src="php.jpg" alt="my-img" width="500"></a>
+<a href="https://www.linkedin.com/in/petermuladi/"><img src="php.jpg" alt="my-img" height="500"></a>
 
 # 🖐Hi there! 
 
