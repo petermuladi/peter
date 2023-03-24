@@ -1,6 +1,6 @@
 
 
-<a href="https://www.linkedin.com/in/petermuladi/"><img align="center" src="banner.png" alt="my-img"></a>
+<a href="https://https://nofluffjobs.com/hu/profile/petermuladi/"><img align="center" src="banner.png" alt="my-img"></a>
 
 # 🖐Hi there! 
 
