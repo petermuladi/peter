@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/petermuladi/"><img align="center" src="banner.jpg" alt="my-img"></a>
 
-# 🖐Hi there! 
+#  🖐Hi there! 
 
 I'm Péter Muladi, a junior backend web developer with a passion for creating efficient and user-friendly web applications. As a recent graduate of Ruander Oktatási Kft. I bring a fresh perspective and a strong foundation in **PHP**, **LARAVEL**, **MySQL**, **SQL**, **JavaScript**, **React**, **Bootstrap**, **REST API**, **OOP**, and **MVC** to my work.
 
