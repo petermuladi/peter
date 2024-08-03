@@ -32,6 +32,3 @@ At [Netpro Web Development™](https://www.netpro.hu), I focus on:
 - **Email:** [info@netpro.hu](mailto:info@netpro.hu)
 
 I'm always open to new opportunities and collaborations. If you're looking to take your business to the next level with innovative web solutions, feel free to reach out!
-
-
-<img align="center" src="stack.png" alt="my-img">
