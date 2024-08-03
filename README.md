@@ -2,17 +2,36 @@
 
 <a href="https://www.netpro.hu"><img align="center" src="banner.jpg" alt="my-img"></a>
 
-# 👋 Hi there!
+# 👋 Hi there! I'm Péter Muladi
 
-I'm **Péter Muladi**, founder of **Netpro Web Development™**. As a passionate backend developer, I specialize in building custom, scalable web applications using PHP, Laravel, MySQL, and more. My mission is to deliver high-performance, user-friendly solutions that help businesses succeed online.
+🎯 **Founder & Backend Developer at [Netpro Web Development™](https://www.netpro.hu)**
 
-💼 Visit my website: [www.netpro.hu](https://www.netpro.hu)
-
-📩 Contact me: [info@netpro.hu](mailto:info@netpro.hu)
+As a passionate backend developer, I specialize in building custom, scalable web applications using **PHP**, **Laravel**, **MySQL**, and other cutting-edge technologies. My mission is to deliver high-performance, user-friendly solutions that empower businesses to succeed online.
 
 ## 🛠 Technologies & Tools
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-- ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+
+- **Languages:** PHP, JavaScript, SQL
+- **Frameworks:** Laravel, Bootstrap
+- **Databases:** MySQL, SQLite
+- **Tools & Platforms:** Git, GitHub, Composer, Postman
+- **Architectures & Patterns:** REST API, MVC, OOP
+
+## 🚀 What I Do at Netpro Web Development™
+
+At [Netpro Web Development™](https://www.netpro.hu), I focus on:
+
+- **Custom Laravel Applications:** Developing tailored web solutions that meet specific business needs.
+- **RESTful APIs:** Designing and implementing robust APIs for seamless client-server communication.
+- **Scalable Solutions:** Ensuring that all applications are built with scalability and performance in mind.
+- **User-Centered Design:** Prioritizing user experience in every aspect of development.
+
+## 🌍 Let's Connect!
+
+- **Website:** [www.netpro.hu](https://www.netpro.hu)
+- **LinkedIn:** [in/petermuladi](https://www.linkedin.com/in/petermuladi)
+- **Email:** [info@netpro.hu](mailto:info@netpro.hu)
+
+I'm always open to new opportunities and collaborations. If you're looking to take your business to the next level with innovative web solutions, feel free to reach out!
+
 
 <img align="center" src="stack.png" alt="my-img">
