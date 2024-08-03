@@ -15,7 +15,7 @@ As a passionate backend developer, I specialize in building custom, scalable web
 - **Architectures & Patterns:** REST API, MVC, OOP
 
 ## 🚀 What I Do at Netpro Web Development™
-At Netpro Web Development™, I focus on:
+At [Netpro Web Development™](https://www.netpro.hu), I focus on:
 - **Custom Laravel Applications:** Developing tailored web solutions that meet specific business needs.
 - **RESTful APIs:** Designing and implementing robust APIs for seamless client-server communication.
 - **Scalable Solutions:** Ensuring that all applications are built with scalability and performance in mind.
