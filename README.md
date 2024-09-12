@@ -3,7 +3,7 @@
 <a href="https://www.netpro.hu"><img align="center" src="banner.jpg" alt="my-img"></a>
 
 # 👋 Hi there! I'm Péter Muladi
-## 🎯 Founder & Full-Stack Web Developer (PHP, Laravel, React) at Netpro Web Development™
+## 🎯 Founder & Web Developer (PHP, Laravel, React) at Netpro Web Development™
 
 As a passionate backend developer, I specialize in building custom, scalable web applications using PHP, Laravel, React, MySQL, and other cutting-edge technologies. My mission is to deliver high-performance, user-friendly solutions that empower businesses to succeed online.
 
